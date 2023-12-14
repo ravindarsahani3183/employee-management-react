@@ -1,0 +1,24 @@
+.update-card{
+    width: 600px;
+    border: 1px solid black;
+    margin-top: 50px;
+    padding: 50px;
+    margin-left: 450px;
+}
+.update-label{
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 7px;
+    margin-left: 5px;
+    color: aquamarine;
+}
+.update-text{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.update-button{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
